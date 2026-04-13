@@ -1,2 +1,7 @@
-# Flappy-Birds
-This is the code and setup i used in the Flappy birds video
+do pip install pygame
+
+then python3 flappy_bird.py
+
+it is up to you but subscribe if you want
+
+[Subscribe to Dylan Codes](https://www.youtube.com/@Dylan-Code)
